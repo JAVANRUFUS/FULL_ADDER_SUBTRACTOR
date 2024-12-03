@@ -48,15 +48,17 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
-![Screenshot 2024-11-16 091144](https://github.com/user-attachments/assets/48e0d9cf-c980-42c3-81d2-4f67c65b732e)
+![Screenshot 2024-11-16 092653](https://github.com/user-attachments/assets/0455c500-e0ae-4cfd-91a4-49bbd0681ecf)
+
 
 **Output Timing Waveform**
-![Screenshot 2024-11-16 091239](https://github.com/user-attachments/assets/0393d60e-432d-4426-ad49-c1a1bb5b6d52)
+![Screenshot 2024-11-16 092815](https://github.com/user-attachments/assets/b255001d-56ec-45b4-bda5-a68a356a6edf)
+
 
 **Result:**
+
 HENCE PROVED
 
-Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
 
 
